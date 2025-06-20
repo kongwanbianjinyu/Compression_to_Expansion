@@ -27,7 +27,7 @@ We investigate how transformer models internally organize information during In-
 ## 📊 Visual Summary
 
 <p align="center">
-  <img src="static/figures/compression_to_expansion.png" alt="Compression to Expansion Diagram" width="600">
+  <img src="layerwise_accuracy_cdnv.png" alt="Compression to Expansion Diagram" width="600">
 </p>
 
 ---
